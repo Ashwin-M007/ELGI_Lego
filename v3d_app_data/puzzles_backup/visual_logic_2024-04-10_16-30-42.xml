@@ -1,0 +1,31 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="733.5" scrolly="382.5" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="733.5" scrolly="382.5" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="hide" id="{$+r,y(#1,TB4n}!%?!h" x="-770" y="-350">
+      <value name="VALUE">
+        <shadow type="objectList" id="tfg;JL}j,[9*yd3OIEQ`">
+          <field name="FIELDNAME">Cube</field>
+        </shadow>
+      </value>
+      <next>
+        <block type="hide" id="`+4CV|lDV?abPvy9Bra0">
+          <value name="VALUE">
+            <shadow type="objectList" id="y@QHMJ^w!UjebUKpO8p,">
+              <field name="FIELDNAME">Cube.001</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="hide" id="1u3N[S8C/gK;G!N]v*h3">
+              <value name="VALUE">
+                <shadow type="objectList" id="+}+.y1oIKQ_Qv}geE_CF">
+                  <field name="FIELDNAME">Cube.002</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="967.8" viewport-y="28" viewport-w="657.2" viewport-h="420.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
